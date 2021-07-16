@@ -4,7 +4,8 @@
 
 
 ## Introduction
-The Real Face dataset is a pedestrian face detection benchmark dataset in the wild, containing over 11000 images and over 55000 detected faces in various ambient conditions. 
+This repository contains a data collection of over 11000 pedestrian images taken in the wild. The data was collected from a variety of sources in the hope of creating a benchmark dataset for pedestrian face detection / recognition research.
+The dataset contains over 55000 detected faces. The dataset is freely available for academic research purposes.
 
 ## Race Composition
 
